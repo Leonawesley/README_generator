@@ -140,13 +140,81 @@ ${projectTitle}
 
 ## Table of content
 
-**[1. Project Summary](#heading--1)**
+**[*  Project Summary](#heading--1)**
+
+**[*  Project Description](#heading--2)**
+
+**[*  Installation](#heading--3)**
+
+**[*  Usage](#heading--4)**
+
+**[*  Tests](#heading--5)**
+
+**[*  Contribution](#heading--6)**
+
+**[*  License](#heading--7)**
+
+**[*  Contact](#heading--8)**
+
+**[*  References](#heading--9)**
 
 <div id="heading--1"/>
 
-## Project Summary 
+## **Project Summary**
             
 ${projectSummary}
+
+<div id="heading--2"/>
+
+## Project Description
+
+${projectDescription}
+
+<div id="heading--3"/>
+
+## Installation
+
+${installation}
+
+<div id="heading--4"/>
+
+## Usage
+
+${usage}
+
+<div id="heading--5"/>
+
+## Tests
+
+${tests}
+
+<div id="heading--6"/>
+
+## Contribution
+
+${contribution}
+
+<div id="heading--7"/>
+
+## License
+
+Distribution under ${license} License. 
+
+<div id="heading--8"/>
+
+## Contact
+
+Author Name - ${author}
+
+EmailID - ${email}
+
+Github profile - https://github.com/${githubUsername}
+
+<div id="heading--9"/>
+
+## References
+
+${references}
 
 `
 
