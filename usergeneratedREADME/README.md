@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # **Professional README Generator**
  
@@ -21,6 +21,8 @@
 **[*  Contact](#heading--8)**
 
 **[*  References](#heading--9)**
+
+**[*  FAQS](#heading--10)**
 
 <div id="heading--1"/>
 
@@ -62,7 +64,7 @@ Any contributions towards the project is greatly appreciated. Please contact me 
 
 ## License
 
-Distribution under MIT License. 
+Distribution under Apache 2.0 License. 
 
 <div id="heading--8"/>
 
@@ -79,6 +81,8 @@ Distribution under MIT License.
 ## References
 
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
+<div id="heading--10"/>
 
 ## FAQS
 

@@ -168,6 +168,8 @@ let readmeContent =
 
 **[*  References](#heading--9)**
 
+**[*  FAQS](#heading--10)**
+
 <div id="heading--1"/>
 
 ## Project Summary
@@ -225,6 +227,8 @@ Distribution under ${license} License.
 ## References
 
 * ${references}
+
+<div id="heading--10"/>
 
 ## FAQS
 
