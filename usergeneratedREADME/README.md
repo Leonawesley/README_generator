@@ -1,4 +1,4 @@
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # **Professional README Generator**
  
@@ -62,11 +62,11 @@ Any contributions towards the project is greatly appreciated. Please contact me 
 
 ## License
 
-Distribution under Apache 2.0 License. 
+Distribution under MIT License. 
 
 <div id="heading--8"/>
 
-## Contact
+## Contact Details
 
 * Author Name - Leona Wesley
 

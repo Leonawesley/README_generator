@@ -41,7 +41,7 @@ let {
                     type: "input",
                     name: "projectDescription",
                     message:
-                      "Please give your project installation steps",
+                      "Give your project detailed description",
                     default() {
                       return "This project uses node js and inquirer. This application uses command line to get user input and generate a custom README file based on the information from the user";
                     },
@@ -212,7 +212,7 @@ Distribution under ${license} License.
 
 <div id="heading--8"/>
 
-## Contact
+## Contact Details
 
 * Author Name - ${author}
 

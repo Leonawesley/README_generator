@@ -6,7 +6,7 @@ This a command-line application that dynamically creates README.md file based on
 
 ## Project Details
 
-In this application user is allowed to enter input through command-line interface. Based on the information from user a high quality README will be generated. This application uses inquirer package to get user input and fs/promises to write data into a file and await to ensure that events happen synchronously. The input provided by the users are used to fill different sections in the README file and a quality README is generated.
+In this application user is allowed to enter input through command-line interface. Based on the information from user a high quality README will be generated. This application uses inquirer package to get user input and fs/promises to write data into a file and await to ensure that events happen synchronously. The input provided by the users are used to fill different sections in the README file and a quality README is generated. This application user to generate their README file very easily.
 
 
 ![User input demo](./assets/images/user_input.png)
@@ -34,3 +34,5 @@ Please refer to the license in the repo
 ## Deployed github link
 
 *  https://github.com/Leonawesley/README_generator
+
+## Application walkthrough
