@@ -1,9 +1,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# Project Title
-
-Professional README Generator 
-
+# **Professional README Generator**
+ 
 ## Table of content
 
 **[*  Project Summary](#heading--1)**
@@ -26,7 +24,7 @@ Professional README Generator
 
 <div id="heading--1"/>
 
-## **Project Summary**
+## Project Summary
             
 This project is used to create a README file based on user input
 
@@ -70,15 +68,15 @@ Distribution under MIT License.
 
 ## Contact
 
-Author Name - Leona Wesley
+* Author Name - Leona Wesley
 
-EmailID - leonaJenishlin@gmail.com
+* EmailID - leonaJenishlin@gmail.com
 
-Github profile - https://github.com/Leonawesley
+* Github profile - https://github.com/Leonawesley
 
 <div id="heading--9"/>
 
 ## References
 
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+* https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 

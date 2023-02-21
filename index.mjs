@@ -131,13 +131,12 @@ let {
             
             ])
 
+//readmeContent is used to store the data that is write into README.md
 let readmeContent = 
 `${generateLicenceBadge(license)}
 
-# Project Title
-
-${projectTitle} 
-
+# **${projectTitle}**
+ 
 ## Table of content
 
 **[*  Project Summary](#heading--1)**
@@ -160,7 +159,7 @@ ${projectTitle}
 
 <div id="heading--1"/>
 
-## **Project Summary**
+## Project Summary
             
 ${projectSummary}
 
@@ -204,24 +203,24 @@ Distribution under ${license} License.
 
 ## Contact
 
-Author Name - ${author}
+* Author Name - ${author}
 
-EmailID - ${email}
+* EmailID - ${email}
 
-Github profile - https://github.com/${githubUsername}
+* Github profile - https://github.com/${githubUsername}
 
 <div id="heading--9"/>
 
 ## References
 
-${references}
+* ${references}
 
 `
 
-
-
+//To write the generated content into README.md file
 await fs.writeFile("./usergeneratedREADME/README.md",readmeContent)
 
+//To generate appropriate license based on user input
 function generateLicenceBadge(license) {
     if (license === "MIT") {
       return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
