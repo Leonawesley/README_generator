@@ -13,7 +13,8 @@ let {
         tests,
         license,
         author,
-        references
+        references,
+        faqs
     } = await inquirer
             .prompt([
                 
@@ -128,6 +129,15 @@ let {
                       return "https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax";
                     },
                   },
+
+                  {
+                    type: "input",
+                    name: "faqs",
+                    message: "What are the FAQs for this project?",
+                    default() {
+                      return "- How do I contact you? \n Please check the contact section for more details\n - What is the use of this application?  \n  Please see the usage section for more information\n";
+                    },
+                  },
             
             ])
 
@@ -215,7 +225,11 @@ Distribution under ${license} License.
 
 * ${references}
 
-`
+## FAQS
+
+${faqs}
+
+`;
 
 //To write the generated content into README.md file
 await fs.writeFile("./usergeneratedREADME/README.md",readmeContent)

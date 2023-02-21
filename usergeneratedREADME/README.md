@@ -80,3 +80,11 @@ Distribution under MIT License.
 
 * https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
+## FAQS
+
+- How do I contact you?
+ Please check the contact section for more details
+ - What is the use of this application?
+ Please see the usage section for more information
+
+
