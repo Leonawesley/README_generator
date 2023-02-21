@@ -1,6 +1,7 @@
 import inquirer from "inquirer";
 import fs from "fs/promises"
 
+//using inquirer package to get user input through command-line
 let {
         githubUsername,
         email,
