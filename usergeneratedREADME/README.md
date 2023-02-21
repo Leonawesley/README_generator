@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 # **Professional README Generator**
  
@@ -62,7 +62,7 @@ Any contributions towards the project is greatly appreciated. Please contact me 
 
 ## License
 
-Distribution under MIT License. 
+Distribution under Apache 2.0 License. 
 
 <div id="heading--8"/>
 
@@ -82,9 +82,9 @@ Distribution under MIT License.
 
 ## FAQS
 
-- How do I contact you?
+- How do I contact you? 
  Please check the contact section for more details
- - What is the use of this application?
- Please see the usage section for more information
+ - What is the use of this application?  
+  Please see the usage section for more information
 
 
